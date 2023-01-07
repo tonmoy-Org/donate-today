@@ -1,0 +1,253 @@
+* {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* header section */
+.header-title {
+    text-align: center;
+    padding-top: 220px;
+    font-weight: 700;
+    font-size: 70px;
+    color: #FFFFFF;
+    margin-bottom: 20px;
+}
+.header{
+    background-image: url('/donate-today-main/images/donation13.jpg');
+    background-repeat: no-repeat;
+    background-blend-mode: screen;
+    background-size: 100% 100%;
+}
+.header-p {
+    text-align: center;
+    margin-bottom: 40px;
+    color: #FFFFFF;
+    font-size:18px;
+}
+
+.btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 200px;
+    
+}
+.primary-button {
+    height: 60px;
+    background:#FF5959;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 10px 15px;
+    border: none;
+}
+/* main section */
+.main-title{
+    text-align: center;
+    font-weight: 700;
+    font-size: 50px;
+    margin-top: 150px;
+    margin-bottom: 30px;
+}
+.main-p{
+    text-align: center;
+    margin-bottom: 60px;
+    color: #474747;
+    font-size:18px;
+}
+.prize{
+    display: flex;
+    justify-content: center;
+    
+}
+.prize-list{
+    border: solid;
+    margin-left: 10px;
+    padding: 30px 30px;
+    border-radius: 5px;
+    background-color: rgba(152, 152, 152, 0.096);
+    border: none;
+    font-size: 30px;
+    font-weight: 600;
+}
+.prize-list-color{
+    border: solid rgb(248, 83, 46);
+    margin-left: 10px;
+    padding: 30px 30px;
+    border-radius: 5px;
+    color: rgb(248, 83, 46);
+    background-color: rgba(220, 20, 60, 0.079);
+    font-size: 30px;
+    font-weight: 600;
+}
+.main-pp{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 5px;
+    color: #474747;
+    font-size:18px;
+}
+hr{
+    width:50%;
+    margin-left: 400px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.section-2-title{
+    text-align: center;
+    font-weight: 700;
+    font-size: 50px;
+    
+}
+.section-description{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 5px;
+    color: #474747;
+    font-size:18px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.section-con{
+    border: 2px none lightgray;
+    margin: 100px 10px;
+    width: 350px;
+    height: 230px;
+    background: rgba(79, 157, 166, 0.1);
+    padding:50px 20px;
+}
+.section-con-1{
+    border: 2px none lightgray;
+    margin: 100px 10px;
+    width: 350px;
+    height: 230px;
+    background: rgba(255, 89, 89, 0.1);
+    padding:50px 20px;
+}
+.section-con-2{
+    border: 2px none lightgray;
+    margin: 100px 10px;
+    width: 350px;
+    height: 230px;
+    background-color: rgba(250, 235, 215, 0.978);
+    padding:50px 20px;
+}
+.section-2-heading{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.section-p{
+    color: #474747;
+    font-size:18px;
+}
+.section-3{
+    margin-top: 20px;
+    margin-left: 150px;
+    width: 600px;
+}
+.section-3-title{
+        font-weight: 700;
+        font-size: 50px;
+}  
+.section-3-p,.section-3-pp{
+    width: 350px;
+    padding-top: 20px;
+    font-size:18px;
+}
+.btn-1{
+    padding-top: 30px;
+}
+.sec-3{
+    display: flex;
+}
+.img-2{
+    width:450px;
+    height: 500px;
+    border-radius: 8px;
+}
+.section-3{
+    margin-top: 20px;
+    margin-left: 150px;
+    width: 600px;
+}
+.section-3-title{
+        font-weight: 700;
+        font-size: 50px;
+}  
+.section-3-p,.section-3-pp{
+    width: 350px;
+    padding-top: 20px;
+    font-size:18px;
+}
+.section-3h{
+    margin-top: 20px;
+    margin-left: 150px;
+    width: 600px;
+}
+.img-3{
+    width:450px;
+    height: 500px;
+    border-radius: 8px;
+    margin-left: 150px;
+}
+.sec-4{
+    display: flex;
+    margin-top: 110px;
+}
+.email-section{
+    margin-top: 200px;
+}
+.email-title{
+    text-align: center;
+    font-weight: 700;
+    font-size: 50px;
+    
+}
+.email-description{
+    text-align: center;
+    margin-top: 30px;
+    font-size:18px;
+    margin-bottom: 5px;
+    color: #474747;
+}
+.section-input{
+    margin: 50px 350px;
+    display: flex;
+    justify-content: center;
+    background-color: antiquewhite;
+    padding: 70px 50px;
+}
+.email{
+    padding-right: 150px;
+    background-color: aliceblue;
+    border-radius: 5px;
+    font-size:18px;
+}
+.primary-button-e {
+    height: 40px;
+    background: #FF5959;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-size: 15px;
+    font-weight: 500;
+    padding: 5px 15px;
+    border: none;
+}
+.footer{
+    margin-top: 200px;
+    text-align: center;
+    color: #FFFFFF;
+    background-color:black;
+    height: 100px;
+    padding: 50px;
+}
+.footer-title{
+    padding-bottom: 20px;
+    font-family: 'Pacifico', cursive;
+}
+.footer-discription{
+    font-size:12px;
+}
